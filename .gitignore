@@ -1,0 +1,8 @@
+# # Ignore a specific file
+# secret-key.txt
+
+# # Ignore an entire folder
+# my-private-notes/
+
+# # Ignore all image files in a specific folder
+# drafts/*.png
