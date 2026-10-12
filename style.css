@@ -1,0 +1,13 @@
+body{
+    background-color: #f2f2f2;
+
+}
+
+#velvet-logo{
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #5B000A;
+    text-align: left;
+    margin-top: 10px;
+}
